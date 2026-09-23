@@ -1,0 +1,19 @@
+{
+  "hz_per_ml_min": 6.6667,
+  "zero_flow_voltage": 2.874,
+  "calibration_flow_voltage": 2.805,
+  "calibration_flow_ml_min": 5.0,
+  "invert_signal": true,
+  "flow_tolerance": 0.2,
+  "safe_start_command": 5,
+  "kp": 1.0,
+  "min_command": 0,
+  "max_command": 100,
+  "correction_step": 2,
+  "correction_interval": 5,
+  "filtration_minutes": 60,
+  "break_before_backwash_minutes": 0,
+  "backwash_minutes": 2,
+  "backwash_flowrate_ml_min": 20.0,
+  "log_interval": 60
+}
